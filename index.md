@@ -6,7 +6,7 @@
 
 yet another change...
 
-[Family life](https://svennerag.github.io/Intropage/Family.html)
+[Family life](https://SvenneRag.github.io/Intropage/Family)
 
 You can use the [editor on GitHub](https://github.com/SvenneRag/Intropage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
