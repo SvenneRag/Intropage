@@ -7,7 +7,7 @@
 yet another change...
 
 [Family life](https://SvenneRag.github.io/Intropage/Family)
-[first file](JypyterStockDataPart1.ipynb)
+[first file](https://github.com/SvenneRag/FinanceExamples/blob/fd2ecb857dc550c71ecabaf55670d6df971cbd27/JypyterStockDataPart1.ipynb)
 
 You can use the [editor on GitHub](https://github.com/SvenneRag/Intropage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
