@@ -1,4 +1,4 @@
-# Svend Andreasen - Curriculum Vitae
+# Svend Andreasen
 
 ## Python
 ### Code snippets
