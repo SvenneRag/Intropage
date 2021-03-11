@@ -8,6 +8,6 @@
 
 ## CV
 For CV head over to my linked profile [here](http://www.linkedin.com/in/svend-andreasen)
-another go <a href="http://www.linkedin.com/in/svend-andreasen" title="here">About Me</a>
+/*another go <a href="http://www.linkedin.com/in/svend-andreasen" title="here">About Me</a>*/
 
 
