@@ -7,7 +7,7 @@
 
 
 ## CV
-For CV head over to my linked profile [here](www.linkedin.com/in/svend-andreasen)
-another go <a href="www.linkedin.com/in/svend-andreasen" title="here">About Me</a>
+For CV head over to my linked profile [here](http://www.linkedin.com/in/svend-andreasen)
+another go <a href="http://www.linkedin.com/in/svend-andreasen" title="here">About Me</a>
 
 
